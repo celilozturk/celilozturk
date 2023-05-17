@@ -23,7 +23,6 @@ Languages and Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3l1l&hide_progress=true)](https://github.com/c3l1l/github-readme-stats)
+![Celil's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3l1l&hide=contribs,prs) 
 
-
-[![Celil ÖZTÜRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3l1l&hide=issues,prs)](https://github.com/c3l1l/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3l1l&layout=compact&hide_progress=true)](https://github.com/c3l1l/github-readme-stats)
