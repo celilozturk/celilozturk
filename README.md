@@ -27,4 +27,4 @@ Languages and Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3l1l&layout=compact&hide_progress=true)](https://github.com/c3l1l/github-readme-stats)
 
-https://learn.microsoft.com/api/achievements/share/en-us/celilztrk-7903/4SZMNYXK?sharingId=5F8E3B8F545CE468
+<img src="https://learn.microsoft.com/api/achievements/share/en-us/celilztrk-7903/4SZMNYXK?sharingId=5F8E3B8F545CE468" width="auto" />
