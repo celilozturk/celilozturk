@@ -4,7 +4,7 @@
 
 
 - 🔭 I currently work as a teacher
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Azure
 - 📫 How to reach me: celil.ozturk@windowslive.com
 
 Connect with me
