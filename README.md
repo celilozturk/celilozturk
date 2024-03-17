@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Azure
 - 📫 How to reach me: celil.ozturk@windowslive.com
 
-Connect with me
+Connect with me 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celil-%C3%B6zt%C3%BCrk-1350597b/)
 
