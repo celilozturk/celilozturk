@@ -3,7 +3,7 @@
   IT Instructor | .Net Developer | Software Engineer
 
 
-- 🔭 I currently work as a teacher
+- 🔭 I currently work as a full stack developer
 - 🌱 I’m currently learning Azure Devops
 - 📫 How to reach me: celil.ozturk@windowslive.com
 
