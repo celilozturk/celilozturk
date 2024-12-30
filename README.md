@@ -4,7 +4,7 @@
 
 
 - 🔭 I currently work as a full stack developer
-- 🌱 I’m currently learning Azure Devops
+- 🌱 I'm currently enhancing my knowledge of Azure DevOps
 - 📫 How to reach me: celil.ozturk@windowslive.com
 
 Connect with me 
