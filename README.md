@@ -1,10 +1,10 @@
   Hi👋 I am Celil ÖZTÜRK
 
-  IT Instructor | .Net Developer | Software Engineer
+ Full Stack Developer | Software Engineer
 
 
-- 🔭 I currently work as a full stack developer
-- 🌱 I'm currently enhancing my knowledge of Azure DevOps
+- 🔭 I currently work as a full-stack developer
+- 🌱 I'm currently enhancing my knowledge of Azure DevOps and Microservice Technologies
 - 📫 How to reach me: celil.ozturk@windowslive.com
 
 Connect with me 
